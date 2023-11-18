@@ -140,15 +140,15 @@ EXACT_MASS(Monoisotopic): 353.089937217
 
 |                   | Font 1                                         | Font 2                                       |
 |-------------------|------------------------------------------------|----------------------------------------------|
-| ** Dibuix de l’estructura** | ![Acenocoumarol](https://github.com/mmonpeat/Python/assets/115364869/d8ecbc59-37db-4457-a611-3514649e6ad8) | ![imatge](https://github.com/mmonpeat/Python/assets/115364869/d7c1a720-b7b3-4f15-9ed4-f9cd1a80867c) |
-| ** Nom científic**          | 4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]chromen-2-one | 4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]-2H-chromen-2-one |
-| ** Nom comercial**          | Sintrom o Sinthrome | Acennocoumarol(no ho posa) |
-| ** Codi a la bd consultada**| (Varis però Res) | DB01418 |
-| ** SMILE**                  | CC(=O)CC(C1=CC=C(C=C1)[N+](=O)[O-])C2=C(C3=CC=CC=C3OC2=O)O | CC(=O)CC(C1=CC=C(C=C1)[N+]([O-])=O)C1=C(O)C2=CC=CC=C2OC1=O |
-| ** InChI**                  | InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3 | InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3 |
-| ** InChI Key (igual)**      | VABCILAOYCMVPS-UHFFFAOYSA-N | VABCILAOYCMVPS-UHFFFAOYSA-N |
-| ** Sdf**                    |  |  |
-| ** Mol**                   | 353.3 g/mol | MOLECULAR_WEIGHT: 353.3255 EXACT_MASS(Monoisotopic): 353.089937217 |
+| **Dibuix de l’estructura** | ![Acenocoumarol](https://github.com/mmonpeat/Python/assets/115364869/d8ecbc59-37db-4457-a611-3514649e6ad8) | ![imatge](https://github.com/mmonpeat/Python/assets/115364869/d7c1a720-b7b3-4f15-9ed4-f9cd1a80867c) |
+| **Nom científic**          | 4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]chromen-2-one | 4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]-2H-chromen-2-one |
+| **Nom comercial**          | Sintrom o Sinthrome | Acennocoumarol(no ho posa) |
+| **Codi a la bd consultada**| (Varis però Res) | DB01418 |
+| **SMILE**                  | CC(=O)CC(C1=CC=C(C=C1)[N+](=O)[O-])C2=C(C3=CC=CC=C3OC2=O)O | CC(=O)CC(C1=CC=C(C=C1)[N+]([O-])=O)C1=C(O)C2=CC=CC=C2OC1=O |
+| **InChI**                  | InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3 | InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3 |
+| **InChI Key (igual)**      | VABCILAOYCMVPS-UHFFFAOYSA-N | VABCILAOYCMVPS-UHFFFAOYSA-N |
+| **Sdf**                    |  |  |
+| **Mol**                   | 353.3 g/mol | MOLECULAR_WEIGHT: 353.3255 EXACT_MASS(Monoisotopic): 353.089937217 |
 
 
 # FÀRMAC B
