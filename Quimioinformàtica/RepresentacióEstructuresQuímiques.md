@@ -27,13 +27,14 @@
 
 ![imagen](https://github.com/mmonpeat/Python/assets/115364869/d8d40253-e29d-4410-90ac-f741ef7a8714)
 
-### [PubChem]()
+### [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/135398513)
 
-### [DrugBank]()
+### [DrugBank](https://go.drugbank.com/drugs/DB00787)
 
 |                   | Font 1                                         | Font 2                                       |
 |-------------------|------------------------------------------------|----------------------------------------------|
-| **1) Dibuix de l’estructura** |  |  |
+| **1) Dibuix de l’estructura** | ![Acyclovir](https://github.com/mmonpeat/Python/assets/115364869/c48bf317-4978-404b-bece-c47438cecfd1)
+ | ![imatge](https://github.com/mmonpeat/Python/assets/115364869/0bdff2e8-0dcd-4e29-9afb-64232e98ca0c) |
 | **3) Nom científic**          |  |  |
 | **4) Nom comercial**          |  |  |
 | **5) Codi a la bd consultada**|  |  |
