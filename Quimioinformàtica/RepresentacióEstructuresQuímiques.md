@@ -36,7 +36,7 @@
 | **Dibuix de l’estructura** | ![Acyclovir](https://github.com/mmonpeat/Python/assets/115364869/c48bf317-4978-404b-bece-c47438cecfd1) | ![imatge](https://github.com/mmonpeat/Python/assets/115364869/0bdff2e8-0dcd-4e29-9afb-64232e98ca0c) |
 | **Nom científic**          | 2-amino-9-(2-hydroxyethoxymethyl)-1H-purin-6-one | 2-amino-9-[(2-hydroxyethoxy)methyl]-6,9-dihydro-3H-purin-6-one |
 | **Nom comercial**          | Els tres primer son: acyclovir, Aciclovir, Acycloguanosine | Generic Name: Acyclovir Brand Names: Sitavig, Xerese, Zovirax |
-| **Codi a la bd consultada**|  | DB00787 |
+| **Codi a la bd consultada**| 135398513 | DB00787 |
 | **SMILE**                  | C1=NC2=C(N1COCCO)N=C(NC2=O)N | NC1=NC(=O)C2=C(N1)N(COCCO)C=N2 |
 | **InChI**                  | InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15) |  InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15) |
 | **InChI Key (igual)**      | MKUXAQIIEYXACX-UHFFFAOYSA-N | MKUXAQIIEYXACX-UHFFFAOYSA-N |
