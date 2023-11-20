@@ -19,7 +19,7 @@
 | **SMILE**                  | CC(=O)CC(C1=CC=C(C=C1)[N+](=O)[O-])C2=C(C3=CC=CC=C3OC2=O)O | CC(=O)CC(C1=CC=C(C=C1)[N+]([O-])=O)C1=C(O)C2=CC=CC=C2OC1=O |
 | **InChI**                  | InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3 | InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3 |
 | **InChI Key (igual)**      | VABCILAOYCMVPS-UHFFFAOYSA-N | VABCILAOYCMVPS-UHFFFAOYSA-N |
-| **Sdf**                    | [link](/RepresentacioEstructuresQuimiquesSdf/PubChem_FarmacA.sdf) | [link](/RepresentacioEstructuresQuimiquesSdf/DB01418_DrugBank_FarmacA.sdf) |
+| **Sdf**                    | [link](../RepresentacioEstructuresQuimiquesSdf/PubChem_FarmacA.sdf) | [link](../RepresentacioEstructuresQuimiquesSdf/DB01418_DrugBank_FarmacA.sdf) |
 | **Mol**                   | 353.3 g/mol | MOLECULAR_WEIGHT: 353.3255 EXACT_MASS(Monoisotopic): 353.089937217 |
 
 
@@ -40,5 +40,5 @@
 | **SMILE**                  | C1=NC2=C(N1COCCO)N=C(NC2=O)N | NC1=NC(=O)C2=C(N1)N(COCCO)C=N2 |
 | **InChI**                  | InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15) |  InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15) |
 | **InChI Key (igual)**      | MKUXAQIIEYXACX-UHFFFAOYSA-N | MKUXAQIIEYXACX-UHFFFAOYSA-N |
-| **Sdf**                    | [link](/RepresentacioEstructuresQuimiquesSdf/PubChem_FarmacB.sdf) | [link](/RepresentacioEstructuresQuimiquesSdf/DB00787_DrugBank_FarmacB.sdf) |
+| **Sdf**                    | [link](../RepresentacioEstructuresQuimiquesSdf/PubChem_FarmacB.sdf) | [link](../RepresentacioEstructuresQuimiquesSdf/DB00787_DrugBank_FarmacB.sdf) |
 | **Mol**                   | 225.20 g/mol | Average: 225.2046 Monoisotopic: 225.086189243  |
