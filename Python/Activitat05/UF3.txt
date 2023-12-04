@@ -1,0 +1,4 @@
+Hola a Tothom
+Avui estem aprenent
+com escriure arxius
+en Python
