@@ -1,0 +1,18 @@
+# Comptar les proteïnes úniques per classe
+unique_proteins_per_class = df_filtered.groupby('TARGET_CLASS')['TARGET_NAME'].nunique()
+
+# Nombres de classes i noms de les proteïnes úniques per classe
+num_classes = unique_proteins_per_class.shape[0]
+class_names = unique_proteins_per_class.index.tolist()
+
+# Mostrar els resultats
+print(f"Hi ha {num_classes} classes:")
+for i in range(num_classes):
+    class_name = class_names[i]
+    num_unique_proteins = unique_proteins_per_class[class_name]
+
+    print(f"Classe: {class_name}, Proteïnes assignades ({num_unique_proteins}):")
+    unique_proteins_list = df_filtered[df_filtered['TARGET_CLASS'] == class_name]['TARGET_NAME'].unique()
+    
+    for protein in unique_proteins_list:
+        print(f"  - {protein}")
