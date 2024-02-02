@@ -3,7 +3,7 @@
 Per entrar:
 
 - Terminal Anaconda
-- conda activate jupyter
+- conda activate jupyter(envaiorment tensorflow tmb ho és)
 - jupyter lab
 
 Instal·lar llibreries bé
