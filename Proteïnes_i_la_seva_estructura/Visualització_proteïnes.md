@@ -13,7 +13,7 @@ LLavor selecionem l'esfera i decobrim que és CA
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/60547287-63a6-44b5-858a-da03eef5b124)
 
-Llavors wn la cerca que hem fet a PDB, anteriorment, he trobat que hi ha la molècula CA és un ió de calci.
+Llavors wn la cerca que hem fet a PDB, anteriorment, he trobat que hi ha la molècula CA és un ió de calci. [Link]([https://link-url-here.org](https://www.rcsb.org/structure/2P16))
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/73a9973b-8e21-4bf7-bc8c-afef869f513a)
 
