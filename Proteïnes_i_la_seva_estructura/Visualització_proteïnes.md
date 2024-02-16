@@ -18,9 +18,11 @@ Llavors wn la cerca que hem fet a PDB, anteriorment, he trobat que hi ha la mol�
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/73a9973b-8e21-4bf7-bc8c-afef869f513a)
 
 ## Entrega 1:
-a) Imatge generada a l’apartat 6c
-b) Imatge generada a l’apartat 6d
-c) Sessió de PyMOL (format pse) al final de l’Exercici 6 amb tots els objectes, seleccions i distàncies que s’han generat fins ara al llarg de la pràctica.
+### a) Imatge generada a l’apartat 6c
+
+### b) Imatge generada a l’apartat 6d
+
+### c) Sessió de PyMOL (format pse) al final de l’Exercici 6 amb tots els objectes, seleccions i distàncies que s’han generat fins ara al llarg de la pràctica.
 
 ## Pregunta 3: Quina diferència hi ha entre hydrogens > add i hydrogens > add polar ?
 
