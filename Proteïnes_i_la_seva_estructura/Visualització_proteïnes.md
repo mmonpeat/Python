@@ -29,9 +29,16 @@ lligand.
 ## Entrega 1:
 ### a) Imatge generada a l’apartat 6c
 
+![mesura](https://github.com/mmonpeat/Python/assets/115364869/0d268070-97be-48ca-9b2b-af461ca0c962)
+
 ### b) Imatge generada a l’apartat 6d
 
+![ray](https://github.com/mmonpeat/Python/assets/115364869/c4c04197-212f-45cc-8ab7-e38c1d59ed16)
+
 ### c) Sessió de PyMOL (format pse) al final de l’Exercici 6 amb tots els objectes, seleccions i distàncies que s’han generat fins ara al llarg de la pràctica.
+
+Està en el zip.
+
 
 ## Pregunta 3: Quina diferència hi ha entre hydrogens > add i hydrogens > add polar ?
 
