@@ -46,13 +46,13 @@ Està en el zip.
 
 ## Pregunta 3: Quina diferència hi ha entre hydrogens > add i hydrogens > add polar ?
 
-hydrogens > add: 
+hydrogens > add: Mostra tots els hidrogens
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/41552121-e348-4483-9069-53d0a6436088)
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/44fb8880-40e3-4a13-b75f-d36814bf2e0e)
 
 
-hydrogens > add polar:
+hydrogens > add polar: mostra només els hidrogens polars
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/5e4069ee-3f06-42d2-92bc-108fce1a170a)
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/584d3cbf-8da1-4006-be1e-84ee01365ac1)
