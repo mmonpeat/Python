@@ -17,6 +17,11 @@ Llavors wn la cerca que hem fet a PDB, anteriorment, he trobat que hi ha la molÃ
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/73a9973b-8e21-4bf7-bc8c-afef869f513a)
 
+Els residus del banding_site
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/6e4b5eff-a4e3-4ae3-b65c-8f480ea3c4a5)
+
+
 ## Entrega 1:
 ### a) Imatge generada a lâ€™apartat 6c
 
