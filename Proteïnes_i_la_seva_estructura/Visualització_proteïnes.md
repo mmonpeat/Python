@@ -40,6 +40,10 @@ lligand.
 Està en el zip.
 
 
+## Exercici 7
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/df55104c-269f-45d2-8733-dc34cd14c866)
+
 ## Pregunta 3: Quina diferència hi ha entre hydrogens > add i hydrogens > add polar ?
 
 ## Pregunta 4: El nostre lligand, apixaban, fa un pont d’hidrogen amb el residu 146 de la proteïna. A quin aminoàcid correspon aquest residu ? Quins àtoms actuen en aquest cas com a donador i acceptor del pont d’hidrogen ?
