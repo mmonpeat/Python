@@ -46,4 +46,16 @@ Està en el zip.
 
 ## Pregunta 3: Quina diferència hi ha entre hydrogens > add i hydrogens > add polar ?
 
+hydrogens > add: 
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/41552121-e348-4483-9069-53d0a6436088)
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/44fb8880-40e3-4a13-b75f-d36814bf2e0e)
+
+
+hydrogens > add polar:
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/5e4069ee-3f06-42d2-92bc-108fce1a170a)
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/584d3cbf-8da1-4006-be1e-84ee01365ac1)
+
+
 ## Pregunta 4: El nostre lligand, apixaban, fa un pont d’hidrogen amb el residu 146 de la proteïna. A quin aminoàcid correspon aquest residu ? Quins àtoms actuen en aquest cas com a donador i acceptor del pont d’hidrogen ?
