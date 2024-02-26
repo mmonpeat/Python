@@ -21,6 +21,10 @@ Els residus del banding_site
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/6e4b5eff-a4e3-4ae3-b65c-8f480ea3c4a5)
 
+Hem calculat la distància entre àtoms de l’aminoàcid GLY’216, una glicina i el
+lligand.
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/4083c4d5-acc0-42b9-a359-1a7fa261cb46)
 
 ## Entrega 1:
 ### a) Imatge generada a l’apartat 6c
