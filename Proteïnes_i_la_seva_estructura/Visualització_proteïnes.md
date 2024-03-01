@@ -76,7 +76,20 @@ show as cartoon, es mostren les helix i  show cartoonmostra els ponts
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/9e3ee1bc-dc86-4ff9-a7f5-c5148de669bc)
 
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/5af20461-0359-4f72-a561-6b00f74996b2)
+
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/7c946127-6396-4d60-8042-c6c903701934)
 
 
-A la secció Macromolecules podem veure que la cadena A correspon a la CYCLIN-DEPENDENT KINASE-2, però també hi ha una cadena B que correspon a CYCLIN A i una C que correspont a P27. Per tant l'estructura 1jsu coné 3 cadenes.
+A la secció Macromolecules podem veure que la cadena A correspon a la CYCLIN-DEPENDENT KINASE-2, longitud 298, però també hi ha una cadena B que correspon a CYCLIN A, longitud 260 i una C que correspont a P27, longitud 84. Per tant l'estructura 1jsu coné 3 cadenes.
+
+La cadena A és la cadena CDK2, que és la que ens interesa.
+
+![1jsu_chain-A](https://github.com/mmonpeat/Python/assets/115364869/0cae0095-d727-468d-9fa7-af05f1acca5b)
+
+Cadena B
+
+![1jsu_chain-B](https://github.com/mmonpeat/Python/assets/115364869/d5a723db-6ab2-4416-a4be-d580186f5a20)
+
+Cadena C
+
+![1jsu_chain-C](https://github.com/mmonpeat/Python/assets/115364869/35a5894e-5ff4-4440-82bf-ec575c8f3b84)
