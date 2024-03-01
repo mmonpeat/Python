@@ -63,3 +63,20 @@ hydrogens > add polar: mostra només els hidrogens polars
 Correspon al aminoàcid GLU (Àcid glutàmic) Dona el hidrogen del axiban i el acceptor és el grup Carboxil.
 ![imatge](https://github.com/mmonpeat/Python/assets/115364869/b6af9916-b986-4334-975d-1499240f4e43)
 
+## Pregunta 5: Quina diferència hi ha entre show cartoon i show as cartoon ?
+
+show as cartoon, es mostren les helix i  show cartoonmostra els ponts
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/75b48a69-eaa9-490b-a9b5-ea8eeea11a6e)
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/c2678a4b-bf0b-4285-84fe-cf966f56f971)
+
+## Pregunta 6: Quantes cadenes conté l’estructura 1jsu ? Què són cada una ? Quina és la que ens interessa (CDK2) ?
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/9e3ee1bc-dc86-4ff9-a7f5-c5148de669bc)
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/5af20461-0359-4f72-a561-6b00f74996b2)
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/7c946127-6396-4d60-8042-c6c903701934)
+
+
+A la secció Macromolecules podem veure que la cadena A correspon a la CYCLIN-DEPENDENT KINASE-2, però també hi ha una cadena B que correspon a CYCLIN A i una C que correspont a P27. Per tant l'estructura 1jsu coné 3 cadenes.
