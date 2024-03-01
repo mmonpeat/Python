@@ -59,3 +59,7 @@ hydrogens > add polar: mostra només els hidrogens polars
 
 
 ## Pregunta 4: El nostre lligand, apixaban, fa un pont d’hidrogen amb el residu 146 de la proteïna. A quin aminoàcid correspon aquest residu ? Quins àtoms actuen en aquest cas com a donador i acceptor del pont d’hidrogen ?
+
+Correspon al aminoàcid GLU (Àcid glutàmic) Dona el hidrogen del axiban i el acceptor és el grup Carboxil.
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/b6af9916-b986-4334-975d-1499240f4e43)
+
