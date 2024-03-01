@@ -93,3 +93,8 @@ Cadena B
 Cadena C
 
 ![1jsu_chain-C](https://github.com/mmonpeat/Python/assets/115364869/35a5894e-5ff4-4440-82bf-ec575c8f3b84)
+
+
+Cadenes A del les proteines 1jsu i 3blh
+
+![imatge](https://github.com/mmonpeat/Python/assets/115364869/5aafc2bc-b0ca-4ef2-ab1e-7e0fee06f679)
