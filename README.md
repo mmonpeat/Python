@@ -8,7 +8,7 @@ Per entrar:
 
 Instal·lar llibreries bé
 
-- conda activate maria (has d'estar en el teu entorn)
+- conda activate maria (has d'estar en el teu entorn) (pymol per visualització 3D)
 - conda install  Matplotlib (nom llibreria) / pip install rdkit
 
 - Per el module sklearn: pip install scikit-learn
